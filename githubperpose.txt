@@ -1,0 +1,4 @@
+yre
+install
+yes
+no
