@@ -2,3 +2,5 @@ yre
 install
 yes
 no
+hred
+hkdjd
